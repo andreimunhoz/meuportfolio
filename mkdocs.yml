@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Andrei Caciano Munhoz - Meu Portfólio
 site_url: 
 theme:
     name: material
@@ -64,8 +64,10 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
+    - Página Inicial:
+        - Bem Vindo: index.md
+    - Sobre Mim: sobre.md
+    - Projetos: projetos.md
 
 markdown_extensions:
     - md_in_html
@@ -81,5 +83,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/andreimunhoz/portfolio
+repo_name: GitHub - Meu Portfólio
